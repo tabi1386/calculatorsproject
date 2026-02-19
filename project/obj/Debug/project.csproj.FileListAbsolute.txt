@@ -1,0 +1,9 @@
+C:\Users\Acer\Desktop\project\project\bin\Debug\project.exe.config
+C:\Users\Acer\Desktop\project\project\bin\Debug\project.exe
+C:\Users\Acer\Desktop\project\project\bin\Debug\project.pdb
+C:\Users\Acer\Desktop\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\project\project\obj\Debug\project.Form1.resources
+C:\Users\Acer\Desktop\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Acer\Desktop\project\project\obj\Debug\project.csproj.GenerateResource.Cache
+C:\Users\Acer\Desktop\project\project\obj\Debug\project.exe
+C:\Users\Acer\Desktop\project\project\obj\Debug\project.pdb
